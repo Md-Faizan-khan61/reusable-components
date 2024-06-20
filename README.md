@@ -1,8 +1,4 @@
-# React + Vite
+# Reusable components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I created a reusable Card component built with React. This component is designed to display a title, image, and description that can be used in multiple places within an application with minimal or no modification. These components should be self-contained, accept props to customize their behavior and appearance, and be easy to compose with other components. Also i used some CSS to look interactive.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
